@@ -1,0 +1,9 @@
+README.md
+setup.py
+mdodata/__init__.py
+mdodata/mdodata.py
+mdodata.egg-info/PKG-INFO
+mdodata.egg-info/SOURCES.txt
+mdodata.egg-info/dependency_links.txt
+mdodata.egg-info/requires.txt
+mdodata.egg-info/top_level.txt
