@@ -17,7 +17,7 @@ setuptools.setup(
     url='https://github.com/shaypal5/chocobo',
     packages=setuptools.find_packages(),
     python_requires=">=3.6",
-    install_requires=['requests'],
+    install_requires=[''],
     classifiers=[
         # Trove classifiers
         # (https://pypi.python.org/pypi?%3Aaction=list_classifiers)
